@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "redux-persist": "^6.0.0"
+  }
+}
